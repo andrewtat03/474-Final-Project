@@ -47,7 +47,7 @@ This project demonstrates embedded firmware development, peripheral interfacing,
 
 ---
 
-## Key Concepts Demonstrated
+## Concepts Demonstrated
 - GPIO input monitoring
 - Timer-based event handling
 - I2C communication
@@ -57,10 +57,8 @@ This project demonstrates embedded firmware development, peripheral interfacing,
 
 ---
 
-## Future Improvements
-- Add data persistence using SPIFFS
+## Potential improvements
 - Implement Wi-Fi reconnection logic
-- Add temperature threshold notifications
 - Improve UI styling of web interface
 
 ---
